@@ -1,4 +1,4 @@
-# attendance_management_cs591
+# web_app_attendance_management_cs591
 Advanced attendance mangement system
 It is a prototype Web app, for teachers to record and evaluate attendance of students in a secure and instantanous manner.
 Muntiple fast authentication systems can be added. Such as close range low energy Bluetooth, Tensor Image recognition, and NFC for 
