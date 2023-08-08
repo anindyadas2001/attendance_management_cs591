@@ -1,3 +1,6 @@
+## Link diverted to new
+## to be changed to cse.computer.project@gmail.com appsheet
+
 # web_app_attendance_management_cs591
 Advanced attendance mangement system
 It is a prototype Web app, for teachers to record and evaluate attendance of students in a secure and instantanous manner.
